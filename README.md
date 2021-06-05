@@ -1,6 +1,9 @@
 # pwn-my
 iOS 14.5 WebKit/Safari based Jailbreak
 Made by RPwnage & the Manticore team
+Fork by ConnorFX
+
+Original Description:
 
 
 * Manticore-Web soon
