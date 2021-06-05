@@ -6,7 +6,7 @@ Fork by ConnorFX
 
 My Additions to the Description:
 I forked this for learning purposes only, DO NOT expect support to be given to anyone for this fork.
-I highly recommend you stay on 13.3 or below if you are on those versions and use Odyssey or Taurine instead of this
+I highly recommend you stay on 13.3 or below if you are on those versions and use Odyssey or Taurine instead of this fork.
 
 
 Original Description:
